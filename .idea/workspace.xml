@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90f2935c-e02c-4a7b-a1a2-d41941cd9cc7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lhzabIctTa2VerDDBQfpX7P5q3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlDriver.executor": "Run",
+    "Application.ArrBasedStack.executor": "Run",
+    "Application.CheckNumberDivisibleBy5.executor": "Run",
+    "Application.Driver.executor": "Run",
+    "Application.EmployeeDriver.executor": "Run",
+    "Application.LogicalJava8.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.P10_FindLargestWordStr.executor": "Run",
+    "Application.P11_CountVowelAndCons.executor": "Run",
+    "Application.P12_FindAllSubstr.executor": "Run",
+    "Application.P12_KthMaxEle.executor": "Run",
+    "Application.P13_ShiftElementsInRight.executor": "Run",
+    "Application.P17_Merge2ArrLeetcode.executor": "Run",
+    "Application.P1_LeastAndGreaterElement.executor": "Run",
+    "Application.P20_TwoSum.executor": "Run",
+    "Application.P21_MedianOf2SortedArr.executor": "Run",
+    "Application.P22_FirstAndLastPositionOfEle.executor": "Run",
+    "Application.P23_RotateArr.executor": "Run",
+    "Application.P25_Subset2.executor": "Run",
+    "Application.P2_Demo3.executor": "Run",
+    "Application.P2_PalindromeStr.executor": "Run",
+    "Application.P3_MajorityEle.executor": "Run",
+    "Application.P3_SubSequenceOfStr.executor": "Run",
+    "Application.P4_Factorial.executor": "Run",
+    "Application.P4_RotateMatrix90DegOptimized.executor": "Run",
+    "Application.P4_SpiralMatrix.executor": "Run",
+    "Application.P5_CalPower.executor": "Run",
+    "Application.P5_Fibonacci.executor": "Run",
+    "Application.P6_FindMaxEleInArr.executor": "Run",
+    "Application.P7_PrimeNum.executor": "Run",
+    "Application.P8_ReverseArr.executor": "Run",
+    "Application.P9_LongestSubstr.executor": "Run",
+    "Application.QueueDriver.executor": "Run",
+    "Application.SinglyLinkedList.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "recursion",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Git Cloned/DSA-Problems",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git Cloned\DSA-Problems\src\pattern_numbers" />
+      <recent name="D:\Git Cloned\DSA-Problems\src" />
+      <recent name="D:\Git Cloned\DSA-Problems\src\non$linear_dsa" />
+      <recent name="D:\Git Cloned\DSA-Problems\src\array" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrBasedStack">
+    <configuration name="ArrBasedStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg7_advance_dsa.stack.ArrBasedStack" />
+      <module name="DSA-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkg7_advance_dsa.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg7_advance_dsa.stack.Driver" />
+      <module name="DSA-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkg7_advance_dsa.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DSA-Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P4_SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg1_array.array_2d.P4_SpiralMatrix" />
+      <module name="DSA-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkg1_array.array_2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg7_advance_dsa.queue.QueueDriver" />
+      <module name="DSA-Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkg7_advance_dsa.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrBasedStack" />
+        <item itemvalue="Application.QueueDriver" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.P4_SpiralMatrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90f2935c-e02c-4a7b-a1a2-d41941cd9cc7" name="Changes" comment="" />
+      <created>1725647163853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725647163853</updated>
+    </task>
+    <servers />
+  </component>
+</project>
