@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90f2935c-e02c-4a7b-a1a2-d41941cd9cc7" name="Changes" comment="" />
+    <list default="true" id="90f2935c-e02c-4a7b-a1a2-d41941cd9cc7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,9 +69,9 @@
     "Application.SinglyLinkedList.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "recursion",
+    "git-widget-placeholder": "array",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Git Cloned/DSA-Problems",
+    "last_opened_file_path": "D:/Java-Interview-Coding-Problems",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
